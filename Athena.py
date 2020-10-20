@@ -12,9 +12,9 @@ music1 = input("I can imagine colours in my mind when i hear music.")
 
 tech2 = input("I know how to build apps and websites.")
 
-outdoor2 = input("I'm good with tying knots and ropes.")
+outdoor2 = input("I'm good with tying knots.")
 
-music2 = input("I play a musical instrument well.")
+music2 = input("I play 2 musical instruments well.")
 
 
 tech_final = int(tech1) + int(tech2)
